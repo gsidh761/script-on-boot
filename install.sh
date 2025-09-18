@@ -6,5 +6,7 @@ SCRIPT="$1"
 BACKUPDIR="~/.script-on-boot/"
 
 mkdir "$BACKUPDIR" 
+echo "Copying old ~/.profile to $BACKUPDIR"
 cp "$PROFILE" "$BACKUPDIR"
-
+echo "Modifiying ~/.profile file to add script..."
+echo "Done..."
