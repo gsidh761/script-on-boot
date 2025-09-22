@@ -8,7 +8,7 @@
 
 # Todo
 - Create installer
-- Better ~/.bash_profile checking
+- Better `~/.bash_profile` checking
 - Restore flag to remove all the changes made to the `~/.bash_profile` file
   
 # How it works
