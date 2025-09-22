@@ -4,7 +4,7 @@
 # Usage
 1. Download script-on-boot from Github
 2. Cd into the script-on-boot directory
-3. Run `./install [script]`
+3. Run `./boot [script]`
 
 # Todo
 - Create installer
