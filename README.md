@@ -8,5 +8,6 @@
 
 # Todo
 - Create installer
+- Better ~/.bash_profile checking
 
 **This script will backup the existing ~/.bash_profile and add the script to the bottom of the file**
