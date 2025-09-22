@@ -9,6 +9,7 @@
 # Todo
 - Create installer
 - Better ~/.bash_profile checking
+- Restore flag to remove all the changes made to the `~/.bash_profile` file
   
 # How it works
 This script backups the existing `~/.bash_profile` and adds the `[script]` to the bottom of the file
